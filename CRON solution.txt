@@ -1,6 +1,6 @@
 This is CRON problems:-                                               
 
-Hint: (The answer will be after this symbol(==>))
+Hint: (The answer will be after this symbol: (==>) )
 
 Sure, here are all the problems along with their respective CRON expressions:
 
